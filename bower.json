@@ -1,0 +1,31 @@
+{
+  "author": "Christopher Weiss",
+  "name": "geomagJS",
+  "homepage": "https://github.com/cmweiss",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/oobayly/geomagJS"
+  },
+  "main": [
+  ],
+  "dependencies": {
+  },
+  "authors": [
+    "Christopher Weiss"
+  ],
+  "description": "A geomagnetism calculator",
+  "keywords": [
+    "deviation",
+    "declination",
+    "geomagnetism",
+    "wgs",
+  ],
+  "license": "GNU LGPL v.3",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
