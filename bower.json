@@ -7,7 +7,19 @@
     "url": "git://github.com/oobayly/geomagJS"
   },
   "main": [
-  ],
+    "cof2Obj.js",
+    "geomag.htm",
+    "geomag.js",
+    "LICENSE",
+    "newGeomag.js",
+    "README",
+    "syncXHR.js",
+    "testValues.txt",
+    "TODO",
+    "WMM2010.COF",
+    "WMM.COF",
+    "wmmViaXHR.js"
+],
   "dependencies": {
   },
   "authors": [
